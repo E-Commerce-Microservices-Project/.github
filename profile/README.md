@@ -1,8 +1,8 @@
 # Welcome to Our E-Commerce Platform
 
-## 👥 Meet the Fawry Intern Team – E-Commerce Microservices Project (2025)
+## 👥 Meet the Project Team – E-Commerce Microservices Project (2025)
 
-Welcome to our official GitHub Organization Wiki! We are a team of passionate software engineering interns who collaborated during the **Fawry Internship Program – Summer 2025**. Over an intensive learning journey, we built a scalable, cloud-ready **E-Commerce Platform** using cutting-edge technologies and industry best practices.
+Welcome to our official GitHub Organization Wiki! We are a team of passionate software engineering interns who collaborated on the project. Over an intensive learning journey, we built a scalable, cloud-ready **E-Commerce Platform** using cutting-edge technologies and industry best practices.
 
 ---
 
