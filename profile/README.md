@@ -63,7 +63,7 @@ Our platform follows a **Microservices Architecture**, with each business capabi
 
 This internship was more than just code – it was about ownership, problem-solving, real-world systems thinking, and teamwork. We’re proud to share our journey and code with the open-source community, and we look forward to what comes next.
 
-**→ Want to explore the code?** [Browse our repositories](https://github.com/orgs/Fawry-Intern-Team/repositories)
+**→ Want to explore the code?** [Browse our repositories]https://github.com/E-Commerce-Microservices-Project/repositories)
 
 **→ Looking to connect?** Reach out to any of us through GitHub or LinkedIn – we’d love to chat!
 
