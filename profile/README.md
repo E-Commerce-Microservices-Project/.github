@@ -41,7 +41,7 @@ Our platform follows a **Microservices Architecture**, with each business capabi
 
 | Name               | GitHub | LinkedIn | Contributions |
 |--------------------|--------|----------|---------------|
-| **Ahmed Radwan**   | [GitHub](https://github.com/Ahmed01126) | [LinkedIn](https://www.linkedin.com/in/ahmed-radwan-b1871a234/) | `product-api`, `store-api`, `frontend` |
+| **Ahmed Radwan**   | [GitHub](https://github.com/Ahmed01126) | [LinkedIn](https://www.linkedin.com/in/ahmed-radwan-b1871a234/) | `product-api`, `database`, `store-api`, `frontend` |
 | **Mohamed Khaled** | [GitHub](https://github.com/mohamedkhaled123447) | [LinkedIn](https://www.linkedin.com/in/mohamed-khaled-08229b207/) | `order-api`, `bank-api`, `api-gateway`, `saga-events`, `frontend` |
 | **Mazen Medhat**  | [GitHub](https://github.com/DarkTigerFAF) | [LinkedIn](https://www.linkedin.com/in/mazennmedhat/) | `auth-api`, `api-gateway`, `service-registry`, `frontend` |
 | **Mohamed Hassan** | [GitHub](https://github.com/Mohamed-Hassan-yahya) | [LinkedIn](https://www.linkedin.com/in/mohamed-hassan-b424b223b/) | `store-api`, `product-api`, `frontend` |
