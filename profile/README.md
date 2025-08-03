@@ -77,4 +77,4 @@ If you're looking for:
 - Interns who turned into teammates...
 
 **You’re in the right place. 👇  
-[Let’s Connect](https://github.com/Fawry-Intern-Team)**
+[Let’s Connect](https://github.com/E-Commerce-Microservices-Project)**
