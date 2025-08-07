@@ -45,7 +45,7 @@ Our platform follows a **Microservices Architecture**, with each business capabi
 | **Mohamed Khaled** | [GitHub](https://github.com/mohamedkhaled123447) | [LinkedIn](https://www.linkedin.com/in/mohamed-khaled-08229b207/) | `order-api`, `bank-api`, `api-gateway`, `saga-events`, `frontend` |
 | **Mazen Medhat**  | [GitHub](https://github.com/DarkTigerFAF) | [LinkedIn](https://www.linkedin.com/in/mazennmedhat/) | `auth-api`, `api-gateway`, `service-registry`, `frontend` |
 | **Mohamed Hassan** | [GitHub](https://github.com/Mohamed-Hassan-yahya) | [LinkedIn](https://www.linkedin.com/in/mohamed-hassan-b424b223b/) | `store-api`, `product-api`, `frontend` |
-| **Amr Hisham**     | [GitHub](https://github.com/AmrHisham-ui) | [LinkedIn](https://www.linkedin.com/in/amr-hisham-o12/) | `user-api`, `notification-api`, `frontend` |
+| **Amr Hisham**     | [GitHub](https://github.com/AmrHisham-ui) | [LinkedIn](https://www.linkedin.com/in/amr-hisham-o12/) | `user-api`, `notification-api`,`Coupon-api`,`Recommendation-api`, `frontend` |
 
 > 💡 All team members collaborated on the frontend and contributed to debugging, testing, and integration efforts.
 
